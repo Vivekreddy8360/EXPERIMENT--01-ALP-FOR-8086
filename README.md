@@ -88,7 +88,7 @@ HLT
 ```
 ## Output  
  
-![Add](add.png)
+![ADD](add.png)
 
 
 ## Subtraction   of 8 bit numbers  ALP 
@@ -99,8 +99,8 @@ sub AL,BL
 HLT
  ```
 ## Output 
+![SUB](sub.png)
 
-![Subtraction](sub.png)
 ## Multiplication alp 
 ```
 mov AL,90h
@@ -110,8 +110,8 @@ HLT
 
 ```
  ## Output  
-![Product](mul.png)
 
+![MUTLI](mul1.png)
 ## Division alp 
 ```
 mov AL,90h
@@ -121,7 +121,7 @@ HLT
 ```
 
 ## Output  
-![Division](div.png)
+![DIVI](div1.png)
 
 ## Result :
  
